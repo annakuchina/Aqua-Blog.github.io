@@ -11,6 +11,10 @@ body {
   color: #7f7f7f;
 }
 
+.blogmain {
+  line-height: 35px;
+}
+
 html {
   scroll-behavior: smooth;
 }
