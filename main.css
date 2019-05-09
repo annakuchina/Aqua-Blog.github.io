@@ -504,12 +504,14 @@ ul li::before {
   }
 
   .hero-mini {
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: 50px;
+    margin-right: 50px;
+    line-height: 50px;
+    font-size: 30px;
   }
 
   .hero-text {
-    font-size: 140px;
+    font-size: 200px;
   }
 
 
@@ -533,7 +535,9 @@ ul li::before {
     font-size: 120px;
   }
 
-
+  .ili {
+    font-size: 25px;
+  }
 
   .body {
     font-size: 16px;
