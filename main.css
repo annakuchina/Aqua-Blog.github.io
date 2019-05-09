@@ -281,7 +281,6 @@ a:hover {
 }
 
 .hero-mini {
-  font-size: 15px;
   padding-top: 40vh;
   text-align: center;
   margin-top: 230px;
@@ -293,6 +292,7 @@ a:hover {
   width: 100%;
   margin-left: 0;
   margin-right: 0;
+  font-size: 1.1rem;
 }
 
 .hero-text {
