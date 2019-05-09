@@ -339,6 +339,7 @@ a:hover {
 
 ul.evlist {
   padding-left: 2.5em;
+  line-height: 2;
 
 }
 
@@ -383,6 +384,7 @@ ul li::before {
   padding-top: 10px;
   color: #1dd9f4;
   font-family: "Major Mono Display", monospace;
+  line-height: 1.5;
 }
 
 .linkthing {
