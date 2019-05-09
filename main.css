@@ -4,7 +4,6 @@ body {
   font-family: "Raleway", sans-serif;
   font-weight: 10;
   font-size: 16px;
-  line-height: 30px;
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -41,7 +40,9 @@ html {
 }
 
 p {
-  padding-bottom: 30px;
+  padding-bottom: 60px;
+  line-height: 2;
+
 }
 
 .dwnld {
@@ -518,10 +519,6 @@ ul li::before {
     font-size: 200px;
   }
 
-  .body {
-    line-height: 40px;
-  }
-
 
 
 }
@@ -560,9 +557,6 @@ ul li::before {
 
   }
 
-  .body {
-    line-height: 80px;
-  }
 
 }
 
@@ -611,9 +605,6 @@ ul li::before {
     font-size: 20px;
   }
 
-  .body {
-    line-height: 120px;
-  }
 
 }
 
