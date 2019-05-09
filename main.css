@@ -457,7 +457,6 @@ ul li::before {
   }
 
   .hero-mini {
-    font-size: 20px;
     padding-top: 45vh;
     text-align: center;
     margin-top: 100px;
@@ -470,6 +469,8 @@ ul li::before {
     margin-right: 0;
     padding-left: 0;
     padding-right: 0;
+    line-height: 50px;
+    font-size: 30px;
   }
 
   .hero-text {
@@ -503,6 +504,8 @@ ul li::before {
     font-size: 20px;
   }
 
+
+
 }
 
 @media screen and (max-width: 991px) {
@@ -512,17 +515,14 @@ ul li::before {
     padding: 0px 150px 50px 150px;
   }
 
-  .hero-mini {
-    margin-left: 50px;
-    margin-right: 50px;
-    line-height: 50px;
-    font-size: 30px;
-  }
-
   .hero-text {
     font-size: 200px;
   }
 
+  .hero-mini {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
 
 
 }
