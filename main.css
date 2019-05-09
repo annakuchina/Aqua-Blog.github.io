@@ -518,8 +518,8 @@ ul li::before {
     font-size: 200px;
   }
 
-  .blogmain {
-    line-height: 120px;
+  .body {
+    line-height: 40px;
   }
 
 
@@ -559,6 +559,11 @@ ul li::before {
     font-size: 25px;
 
   }
+
+  .body {
+    line-height: 80px;
+  }
+
 }
 
 
@@ -604,6 +609,10 @@ ul li::before {
 
   .blogheading {
     font-size: 20px;
+  }
+
+  .body {
+    line-height: 120px;
   }
 
 }
