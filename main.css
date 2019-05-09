@@ -615,6 +615,10 @@ ul li::before {
     padding-bottom: 0px;
   }
 
+  .blogdate {
+    padding-top: 40px;
+  }
+
   .blogheading {
     font-size: 20px;
     padding-bottom: 0px;
@@ -626,7 +630,7 @@ ul li::before {
     padding-top: 55px;
   }
 
-  ili {
+  .ilia {
     font-size: 30px;
   }
 
