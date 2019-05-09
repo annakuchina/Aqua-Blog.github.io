@@ -221,7 +221,7 @@ a:hover {
 
 .blogheader {
   font-family: "Major Mono Display", monospace;
-  padding-bottom: 10px;
+  padding-bottom: 50px;
   color: #1dd9f4;
 
 }
@@ -318,7 +318,7 @@ a:hover {
 .blogheading {
   font-size: 20px;
   text-decoration: underline;
-  padding-bottom: 20px;
+  padding-bottom: 40px;
   color: #56bac9;
 }
 
@@ -332,8 +332,9 @@ a:hover {
 .blogdate {
   font-size: 20px;
   font-family: "Major Mono Display", monospace;
-  padding-bottom: 10px;
+  padding-bottom: 30px;
   color: #00f6ff;
+  margin-top: -7px;
 }
 
 ul.evlist {
