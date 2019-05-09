@@ -50,7 +50,7 @@ p {
 }
 
 .fas {
-  font-size: 13px;
+  font-size: 20px;
 }
 
 ili {
@@ -518,6 +518,10 @@ ul li::before {
     font-size: 200px;
   }
 
+  .blogmain {
+    line-height: 120px;
+  }
+
 
 
 }
@@ -608,6 +612,7 @@ ul li::before {
 
 .anna {
   color: white;
+  font-size: 30px;
 }
 
 
