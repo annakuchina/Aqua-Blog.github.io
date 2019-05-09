@@ -456,22 +456,7 @@ ul li::before {
     padding: 0px 400px 50px 400px;
   }
 
-  .hero-mini {
-    padding-top: 45vh;
-    text-align: center;
-    margin-top: 100px;
-    position: absolute;
-    color: white;
-    z-index: 1;
-    font-weight: bold;
-    width: 100%;
-    margin-left: 0;
-    margin-right: 0;
-    padding-left: 0;
-    padding-right: 0;
-    line-height: 50px;
-    font-size: 30px;
-  }
+ 
 
   .hero-text {
     font-size: 200px;
