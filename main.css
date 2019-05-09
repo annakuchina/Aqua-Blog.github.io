@@ -407,7 +407,11 @@ ul li::before {
 
 
   .blogheading {
-    padding-bottom: 23px;
+    padding-bottom: 20px;
+  }
+
+  p {
+    padding-bottom: 40px;
   }
 
   .blogheader {
@@ -460,7 +464,7 @@ ul li::before {
 
   .blogheader {
     font-size: 20px;
-    padding-bottom: 28px;
+    padding-bottom: 30px;
   }
 
   .blogdate {
