@@ -608,19 +608,43 @@ ul li::before {
   }
 
   p {
-    padding-top: 20px;
+    padding-top: 40px;
   }
 
-
+  .blogheader {
+    padding-bottom: 0px;
+  }
 
   .blogheading {
     font-size: 20px;
+    padding-bottom: 0px;
+    padding-top: 40px;
   }
 
+  .evheader {
+    padding-bottom: 50px;
+    padding-top: 55px;
+  }
+
+
+  
   ili {
     font-size: 30px;
   }
 
+  .video {
+    padding-top: 50px;
+  }
+
+  .blogpicture {
+    padding-top: 40px;
+  }
+
+
+  .blogdate {
+    padding-top: 35px;
+    padding-bottom: 35px;
+  }
 
 }
 
