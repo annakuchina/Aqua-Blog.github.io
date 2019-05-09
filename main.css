@@ -221,7 +221,7 @@ a:hover {
 
 .blogheader {
   font-family: "Major Mono Display", monospace;
-  padding-bottom: 50px;
+  padding-bottom: 25px;
   color: #1dd9f4;
 
 }
@@ -499,7 +499,10 @@ ul li::before {
     font-size: 200px;
   }
 
-  
+  .blogheader {
+    padding-bottom: 50px;
+
+  }
 
 
 }
