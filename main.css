@@ -400,6 +400,25 @@ ul li::before {
 }
 
 
+@media screen and (min-width: 680px) {
+  .hero-mini {
+    margin-top: 205px;
+  }
+
+
+  .blogheading {
+    padding-bottom: 23px;
+  }
+
+  .blogheader {
+    padding-bottom: 28px;
+  }
+
+  .blogdate {
+    padding-bottom: 15px;
+  }
+}
+
 
 @media screen and (min-width: 992px) {
   .container {
