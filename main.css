@@ -291,6 +291,8 @@ a:hover {
   font-weight: bold;
   text-align: center;
   width: 100%;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 .hero-text {
@@ -406,14 +408,7 @@ ul li::before {
     padding: 0px 300px 50px 300px;
   }
 
-  .hero-mini {
-    text-align: center;
-    width: 100%;
-    margin-left: 0;
-    margin-right: 0;
-    font-size: 20px;
-    margin-top: 205px;
-  }
+  
 
   .hero-text {
     font-size: 180px;
@@ -433,7 +428,10 @@ ul li::before {
 
   }
 
-
+  .hero-mini {
+    font-size: 20px;
+    margin-top: 205px;
+  }
 
   .evheader {
     font-size: 20px;
@@ -502,6 +500,8 @@ ul li::before {
   .hero-text {
     font-size: 200px;
   }
+
+  
 
 
 }
